@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-学长学姐们的建议/00.一些话.md",
+                "file": "01-学习篇/01.培养方案解读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.一些话"
+              "title": "01.培养方案解读"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-学长学姐们的建议/00.一些话.md",
+                "file": "01-学习篇/01.培养方案解读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "00.一些话 的反向链接列表"
+              "title": "01.培养方案解读 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-学长学姐们的建议/00.一些话.md",
+                "file": "01-学习篇/01.培养方案解读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "00.一些话 的出链列表"
+              "title": "01.培养方案解读 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-学长学姐们的建议/00.一些话.md",
+                "file": "01-学习篇/01.培养方案解读.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00.一些话 的大纲"
+              "title": "01.培养方案解读 的大纲"
             }
           }
         ]
@@ -183,15 +183,25 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "ce42076446275d93",
+  "active": "4f2784d3c45bee3c",
   "lastOpenFiles": [
-    "assets/地探--2024版本科生培养方案20240517.pdf",
-    "assets",
-    "README.md",
-    "04-学长学姐们的建议/00.一些话.md",
-    "03-生活篇/00.如何在JLU更好的生活.md",
-    "02-发展篇/00.升学OR就业.md",
+    "assets/Pasted image 20251217151823.png",
     "01-学习篇/00.究竟要学习什么.md",
+    "02-发展篇/00.升学OR就业.md",
+    "01-学习篇/02.专业实习.md",
+    "01-学习篇/01.培养方案解读.md",
+    "01-学习篇/03.课程篇/00.课程篇前言.md",
+    "01-学习篇/03.课程篇",
+    "assets/Pasted image 20251217151210.png",
+    "assets/image/Pasted image 20251217150758.png",
+    "assets/image/Pasted image 20251217145236.png",
+    "assets/image",
+    "README.md",
+    "assets/pdf/地探--2024版本科生培养方案20240517.pdf",
+    "assets/pdf",
+    "04-学长学姐们的建议/00.一些话.md",
+    "assets",
+    "03-生活篇/00.如何在JLU更好的生活.md",
     "04-学长学姐们的建议",
     "03-生活篇",
     "02-发展篇",
