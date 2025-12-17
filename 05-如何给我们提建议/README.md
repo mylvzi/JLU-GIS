@@ -27,6 +27,8 @@
 
 即使只是补充一小段经验，也非常有价值。
 
+此外,关于如何clone到本地并提交,请看:[[543]GitHub怎样fork别人代码到自己仓库并进行贡献_fork到仓库-CSDN博客](https://blog.csdn.net/xc_zhou/article/details/87984242)
+
 ---
 
 ### ⚠️ 提交内容时的几点建议
