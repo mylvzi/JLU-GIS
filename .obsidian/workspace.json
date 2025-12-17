@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "04-学长学姐们的建议/00.一些话.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "00.一些话"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "04-学长学姐们的建议/00.一些话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "00.一些话 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "04-学长学姐们的建议/00.一些话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "00.一些话 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "04-学长学姐们的建议/00.一些话.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "00.一些话 的大纲"
             }
           }
         ]
@@ -183,12 +183,15 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "4f2784d3c45bee3c",
+  "active": "ce42076446275d93",
   "lastOpenFiles": [
-    "03-生活篇/00.如何度过大学.md",
-    "01-学习篇/00.究竟要学习什么.md",
+    "assets",
     "README.md",
-    "02-发展篇/00-升学OR就业.md",
+    "04-学长学姐们的建议/00.一些话.md",
+    "03-生活篇/00.如何在JLU更好的生活.md",
+    "02-发展篇/00.升学OR就业.md",
+    "01-学习篇/00.究竟要学习什么.md",
+    "04-学长学姐们的建议",
     "03-生活篇",
     "02-发展篇",
     "01-学习篇"
