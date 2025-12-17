@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-学习篇/01.关于培养方案你需要知道什么.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.关于培养方案你需要知道什么"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-学习篇/01.关于培养方案你需要知道什么.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01.关于培养方案你需要知道什么 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-学习篇/01.关于培养方案你需要知道什么.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01.关于培养方案你需要知道什么 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-学习篇/01.关于培养方案你需要知道什么.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01.关于培养方案你需要知道什么 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "4f2784d3c45bee3c",
   "lastOpenFiles": [
+    "01-学习篇/01.关于培养方案你需要知道什么.md",
     "README.md",
     "01-学习篇/03.课程篇/00.关于课程你需要知道什么.md",
     "01-学习篇/02.实习篇/00.关于实习你需要知道什么.md",
@@ -199,7 +200,6 @@
     "02-发展篇/03.考研篇",
     "02-发展篇/02.就业篇",
     "02-发展篇/01.保研篇",
-    "01-学习篇/01.关于培养方案你需要知道什么.md",
     "01-学习篇/00.究竟要学习什么.md",
     "04-学长学姐们的建议/00.一些话.md",
     "01-学习篇/02.实习篇",
