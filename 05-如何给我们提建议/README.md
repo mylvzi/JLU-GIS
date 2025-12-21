@@ -25,9 +25,11 @@
 3. 提交 Pull Request
 4. 等待维护者 review 与合并
 
-即使只是补充一小段经验，也非常有价值。
+为了让更多的同学参与进来,减少操作门槛,在此仓库我们只设置了**一个main分支**,除此之外,并无其他分支, 所以你可以直接fork并提交PR
 
-此外,关于如何clone到本地并提交,请看:[[543]GitHub怎样fork别人代码到自己仓库并进行贡献_fork到仓库-CSDN博客](https://blog.csdn.net/xc_zhou/article/details/87984242)
+此外,如果你想深度参与,可以联系我,我会将你添加进本仓库的`collaborators`(联系方式见下方邮件)
+
+关于如何clone到本地并提交,请看:[[543]GitHub怎样fork别人代码到自己仓库并进行贡献_fork到仓库-CSDN博客](https://blog.csdn.net/xc_zhou/article/details/87984242)
 
 ---
 
