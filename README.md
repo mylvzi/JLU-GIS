@@ -18,7 +18,7 @@
   - [05｜如何参与](#05如何参与)
 ---
 ## 致谢
-- [上海交大生存指南](https://survivesjtu.gitbook.io/survivesjtumanual)
+- [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
 - [CS 自学指南](https://csdiy.wiki/#_9)
 
 
